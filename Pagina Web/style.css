@@ -1,0 +1,9 @@
+.contenedor {
+    display: flex;
+}
+
+.imagen {
+    width: 300px;
+    margin-right: 35px;
+    
+}
